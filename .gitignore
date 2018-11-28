@@ -1,4 +1,5 @@
 .pytest_cache/
 .tox/
 test/unit/__pycache__/
+__pycache__/
 
